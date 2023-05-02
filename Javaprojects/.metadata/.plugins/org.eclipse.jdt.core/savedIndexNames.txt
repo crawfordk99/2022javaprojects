@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/keithcrawfordjr/Javaprojects/.metadata/.plugins/org.eclipse.jdt.core
+2752447888.index
+1702940564.index
